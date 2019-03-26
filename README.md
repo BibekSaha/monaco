@@ -6,4 +6,4 @@ This font is specially adjusted for Visual Studio Code for Windows and Linux.
 
 I do not own the copyright to the font. All the right belong to Apple Inc., Use it at your own risk.
 
-Link:- <a href="https://github.com/BibekSaha/Apple-Monaco-font/blob/master/Monaco-01.ttf">Click Here</a>
+<a href="https://github.com/BibekSaha/Apple-Monaco-font/blob/master/Monaco-01.ttf" download>Click Here to download .ttf file</a>
